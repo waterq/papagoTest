@@ -1,4 +1,4 @@
-package util;
+package papago;
 
 import java.io.BufferedReader;
 import java.io.DataOutputStream;
